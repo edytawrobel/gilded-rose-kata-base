@@ -1,0 +1,3 @@
+tabs: ['README.md', '.cdmrc']
+terminals: ['run', 'test']
+run-button: 
